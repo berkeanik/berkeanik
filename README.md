@@ -4,7 +4,7 @@ Hi, I’m Berke! 👋
 
 🔹 About Me
 
-I am passionate about problem-solving, software development, and data analytics. Currently learning C# and Unity as part of my university's game development team, also exploring R for data analysis.
+A highly motivated and results-driven individual with a strong academic background, a passion for problem-solving, and commitment to continuous learning. Possessing analytical thinking and adaptability, I thrive in dynamic environments, eager to apply my skills and grow professionally.
 
 🔹 Skills
 
