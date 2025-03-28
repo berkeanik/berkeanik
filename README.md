@@ -10,7 +10,7 @@ A highly motivated and results-driven individual with a strong academic backgrou
 
 Programming: Java, C, SQL, JavaScript
 
-Data & Analytics: R, PL/SQL
+Data & Analytics: PL/SQL
 
 Web Development: HTML, CSS
 
