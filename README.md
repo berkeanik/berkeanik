@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Berke! 👋
 
-<!--
-**berkeanik/berkeanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore Information Systems and Technologies student at Bilkent University
 
-Here are some ideas to get you started:
+🔹 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about problem-solving, software development, and data analytics. Currently learning C# and Unity as part of my university's game development team, also exploring R for data analysis.
+
+🔹 Skills
+
+Programming: Java, C, SQL, JavaScript
+
+Data & Analytics: R, PL/SQL
+
+Web Development: HTML, CSS
+
+🔹 Interests
+
+Music & Football
