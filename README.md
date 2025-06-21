@@ -1,6 +1,6 @@
 Hi, I’m Berke! 👋
 
-🎓 Sophomore Information Systems and Technologies student at Bilkent University
+🎓 Information Systems and Technologies student at Bilkent University
 
 🔹 About Me
 
