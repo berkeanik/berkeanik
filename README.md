@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/berke-an%C4%B1k" target="_blank">
+  <a href="https://linkedin.com/in/berke-an%C4%B1k-433a43282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:berke.anik@ug.bilkent.edu.tr">
