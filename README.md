@@ -121,22 +121,7 @@ I am a highly motivated and results-driven **Information Systems and Technologie
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=berkeanik&show_icons=true&theme=tokyonight&count_private=true" alt="Berke's GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeanik&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <div align="center">
   <sub>Designed with 💜 by Berke Anık</sub>
