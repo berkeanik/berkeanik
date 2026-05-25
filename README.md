@@ -82,7 +82,7 @@ I am a highly motivated and results-driven **Information Systems and Technologie
 <table width="100%">
   <tr>
     <td width="50%">
-      <strong>🛒 <a href="https://github.com/berkeanik/expiry_saver">Sustainability E-Commerce (ExpirySaver)</a></strong><br/>
+      <strong>🛒 <a href="https://github.com/berkeanik/eco-food-marketplace">EcoFoodMarketplace (PHP)</a></strong><br/>
       Multi-user web application (PHP, MySQL, CSS) built to reduce food waste by offering near-expiry food items at discounted prices. Implemented CSRF protection, SQL injection prevention, and session-based authorization.
     </td>
     <td width="50%">
@@ -92,7 +92,7 @@ I am a highly motivated and results-driven **Information Systems and Technologie
   </tr>
   <tr>
     <td width="50%">
-      <strong>📱 <a href="https://github.com/berkeanik/water-intake-tracker">Water Intake Tracker</a></strong><br/>
+      <strong>📱 <a href="https://github.com/berkeanik/hydraLite">HydraLite (Kotlin)</a></strong><br/>
       Android application built using Kotlin and Room DB for local data persistence. Features dynamic intake tracking, custom RecyclerView implementations, and daily goals.
     </td>
     <td width="50%">
@@ -102,7 +102,7 @@ I am a highly motivated and results-driven **Information Systems and Technologie
   </tr>
   <tr>
     <td width="50%">
-      <strong>📊 <a href="https://github.com/berkeanik/fifa-world-cup-analysis">2022 FIFA World Cup Analysis</a></strong><br/>
+      <strong>📊 <a href="https://github.com/berkeanik/fifa-world-cup-analysis-r">FIFA World Cup 2022 Analysis (R)</a></strong><br/>
       Data analysis project built using R, ggplot2, and dplyr to clean, visualize, and analyze play styles, possession metrics, and offensive efficiencies.
     </td>
     <td width="50%">
