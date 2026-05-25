@@ -82,7 +82,7 @@ I am a highly motivated and results-driven **Information Systems and Technologie
 <table width="100%">
   <tr>
     <td width="50%">
-      <strong>🛒 <a href="https://github.com/berkeanik/eco-food-marketplace">EcoFoodMarketplace (PHP)</a></strong><br/>
+      <strong>🛒 <a href="https://github.com/berkeanik/expiry_saver">ExpirySaver (PHP)</a></strong><br/>
       Multi-user web application (PHP, MySQL, CSS) built to reduce food waste by offering near-expiry food items at discounted prices. Implemented CSRF protection, SQL injection prevention, and session-based authorization.
     </td>
     <td width="50%">
