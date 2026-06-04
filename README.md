@@ -20,7 +20,6 @@
 I am a highly motivated and results-driven **Information Systems and Technologies (CTIS) student at Bilkent University** with a strong passion for software development, problem-solving, and building high-performance systems. I thrive in dynamic environments and enjoy translating complex requirements into clean, scalable applications.
 
 * 🎓 **Education:** BSc in **Information Systems and Technologies (CTIS)** at **Bilkent University** (2022 - Present)
-* 💼 **Current Role:** Software Developer Intern at **Sisoft Healthcare Information Systems**
 
 ---
 
@@ -118,7 +117,7 @@ I am a highly motivated and results-driven **Information Systems and Technologie
 
 * 🎓 **Bootcamp of University Engagement Program** — ACM Bilkent & Amazon Women in Engineering (2025)
 * 🛡️ **CCNA: Introduction to Networks** — Cisco Networking Academy, Bilkent University (Jan 2025)
-
+* ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services (May 2026)
 ---
 
 
