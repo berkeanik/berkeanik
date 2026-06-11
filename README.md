@@ -25,9 +25,9 @@ I am a highly motivated and results-driven **Information Systems and Technologie
 
 ### 💼 Experience
 
-* **Sisoft Healthcare Information Systems** — *Software Developer Intern* (Jan 2026 - Present)
-  * Developing Hospital Information Management Systems (HBYS) using **Dart** and the **Flutter** framework.
-  * Implementing cross-platform solutions to optimize system architecture and enhance user experience.
+* **Sisoft Healthcare Information Systems** — *Software Developer Intern* (Jan 2026 - Jun 2026)
+  * Developed Hospital Information Management Systems (HBYS) using **Dart** and the **Flutter** framework.
+  * Implemented cross-platform solutions to optimize system architecture and enhance user experience.
 * **Bursa Metropolitan Municipality** — *Software Development Intern* (Jul 2025 - Aug 2025)
   * Developed a **License Plate Recognition (LPR)** system using advanced image-processing techniques.
   * Engineered a C#/.NET backend structure and implemented **RESTful API** endpoints for real-time system communication.
