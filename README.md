@@ -19,7 +19,7 @@
 
 I am a highly motivated and results-driven **Information Systems and Technologies (CTIS) student at Bilkent University** with a strong passion for software development, problem-solving, and building high-performance systems. I thrive in dynamic environments and enjoy translating complex requirements into clean, scalable applications.
 
-* 🎓 **Education:** BSc in **Information Systems and Technologies (CTIS)** at **Bilkent University** (2022 - Present)
+* 🎓 **Education:** BSc in **Information Systems and Technologies (CTIS)** at **Bilkent University** (2023 - Present)
 
 ---
 
