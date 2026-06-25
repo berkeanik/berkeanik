@@ -25,6 +25,8 @@ I am a highly motivated and results-driven **Information Systems and Technologie
 
 ### 💼 Experience
 
+* **Belsis** — *Full Stack Developer Intern* (Jun 2026 - Present)
+
 * **Sisoft Healthcare Information Systems** — *Software Developer Intern* (Jan 2026 - Jun 2026)
   * Developed Hospital Information Management Systems (HBYS) using **Dart** and the **Flutter** framework.
   * Implemented cross-platform solutions to optimize system architecture and enhance user experience.
